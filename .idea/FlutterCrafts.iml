@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/ios/.symlinks/plugins/permission_handler_apple/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/ios/.symlinks/plugins/permission_handler_apple/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/ios/.symlinks/plugins/permission_handler_apple/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/ios/.symlinks/plugins/google_mlkit_commons/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/ios/.symlinks/plugins/google_mlkit_commons/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/ios/.symlinks/plugins/google_mlkit_commons/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/ios/.symlinks/plugins/camera_avfoundation/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/ios/.symlinks/plugins/camera_avfoundation/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/ios/.symlinks/plugins/camera_avfoundation/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/ios/.symlinks/plugins/google_mlkit_text_recognition/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/ios/.symlinks/plugins/google_mlkit_text_recognition/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/ios/.symlinks/plugins/google_mlkit_text_recognition/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/ios/.symlinks/plugins/camera_avfoundation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/ios/.symlinks/plugins/camera_avfoundation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/ios/.symlinks/plugins/camera_avfoundation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/ios/.symlinks/plugins/permission_handler_apple/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/ios/.symlinks/plugins/permission_handler_apple/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/ios/.symlinks/plugins/permission_handler_apple/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Text-Recognition/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
