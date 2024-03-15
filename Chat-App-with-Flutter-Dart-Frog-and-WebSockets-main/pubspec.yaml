@@ -1,0 +1,61 @@
+name: chat_with_flutter_dart_frog_and_websockets
+description: A new Flutter project.
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  envied: ^0.5.2
+  models:
+    path: packages/models
+  http: ^1.1.0
+  web_socket_channel: ^2.4.0
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  envied_generator: ^0.5.2
+  build_runner: ^2.4.6
+
+
+
+flutter:  
+  uses-material-design: true
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
